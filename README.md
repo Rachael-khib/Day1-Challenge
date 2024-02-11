@@ -1,2 +1,2 @@
-# Day1-Challenge
-Zindua Data Analysis Challenge
+# Zindua Data Analysis Challenge
+Day1 Challenge
