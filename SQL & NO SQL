@@ -1,0 +1,15 @@
+SQL;
+-Databases are relational
+-Databases use SQL and have a predefined schema
+-Databases are vertically scalable
+-Databases are table-based
+-Databases are better for multi-row tranascations 
+-Follows ACID properties
+
+NO SQL;
+-Databases are non-relational
+-Databases have dynamic schemas for unstructured data
+-Databases are horizonatally scalable
+-Databases are document, key-value, graph
+-It's better for unstructured data like documents or JSON
+-Follows CAP(consistency, availability, partition tolerance)
