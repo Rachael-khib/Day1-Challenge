@@ -1,2 +1,2 @@
 # Zindua Data Analysis Challenge
-Day1 Challenge
+WEEK 1 Challenges and Projects
